@@ -18,5 +18,5 @@ comando para traerme de mi repo remoto a mi local:
 git pull
 
 comandos de git que no  necesitan procedimiento:
-1-git status
+1-git status ( para controlar si esta todo correcto)
 2-git log ( para ver mis comentarios )
